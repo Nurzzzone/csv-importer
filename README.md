@@ -1,0 +1,5 @@
+#### INSTALLATION
+```
+make build-up
+
+```
